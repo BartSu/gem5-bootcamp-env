@@ -12,3 +12,6 @@ typings/
 .vscode/*.log
 
 __pycache__
+
+# MacOS stuff
+.DS_Store
